@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BuyTicket</string>
+    <string name="hello_world">恭喜您，预订成功！</string>
+    
+    <string name="action_settings">BuyTicket</string>
+
+</resources>
